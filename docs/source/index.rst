@@ -1,22 +1,18 @@
-Welcome to Lumache's documentation!
+Instrukcja do Hockey Trigera
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+**Hockey Triger** jest grą karcianą asdsdadasd na `stronie <localhost>`
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Sprawdź sekcję :doc:`systemy` sdfhtfdg najpopularniejszy system :ref:`BD`
 
 .. note::
 
-   This project is under active development.
+   Ten projekt jest pod ciągłym rozwojem
 
-Contents
+Zawartość
 --------
 
 .. toctree::
 
-   usage
-   api
+   systemy
+   karty specjalne

@@ -1,7 +1,7 @@
 Instrukcja do Hockey Trigera
 ===================================
 
-**Hockey Triger** jest grą karcianą asdsdadasd na `stronie <localhost>`
+**Hockey Triger** jest grą karcianą asdsdadasd na `stronie <https://localhost>`_
 
 Sprawdź sekcję :doc:`systemy` sdfhtfdg najpopularniejszy system :ref:`BD`
 
